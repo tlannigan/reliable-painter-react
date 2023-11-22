@@ -3,9 +3,9 @@ import React, { Component } from 'react'
 export class EstimateForm extends Component {
   render() {
     return (
-      <div className='flex flex-col basis-2/5 justify-between'>
+      <div className='flex flex-col basis-4/12 justify-between section'>
         <div>
-            <h2>Request a Free Estimate</h2>
+            <h3>Request a Free Estimate</h3>
         </div>
         <div className='flex flex-col'>
             <label for='estimate-first-name'>First name</label>
