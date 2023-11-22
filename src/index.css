@@ -25,3 +25,11 @@ code {
   border-radius: 16px;
   padding: 1.5rem;
 }
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+.rowdies {
+  font-family: 'Rowdies', sans-serif;
+}
