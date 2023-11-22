@@ -5,7 +5,7 @@ export class EstimateImage extends Component {
   render() {
     return (
       <div className='basis-8/12'>
-        <img src={estimateImage} alt="Paint chips" />
+        <img src={estimateImage} alt="Paint chips" className='rounded-2xl' />
       </div>
     )
   }

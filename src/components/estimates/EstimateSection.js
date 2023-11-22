@@ -5,7 +5,7 @@ import EstimateForm from './EstimateForm'
 export class EsimateSection extends Component {
   render() {
     return (
-      <div className='flex justify-between'>
+      <div className='flex justify-between gap-x-4'>
         <EstimateImage />
         <EstimateForm />
       </div>
