@@ -9,7 +9,10 @@ function App() {
       <Header />
       <EstimateSection />
 
-      <DividingHeader text="Hi, I'm Nathan, a master painter" />
+      <DividingHeader
+        before={"Hi, I'm "}
+        underlined={"Nathan"}
+        after={", a master painter"} />
       <ReviewSection />
 
       <DividingHeader text="With over 50 years of experience" />
