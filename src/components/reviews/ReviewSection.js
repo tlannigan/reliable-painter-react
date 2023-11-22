@@ -1,11 +1,11 @@
 import React, { Component } from 'react'
-import Reviews from '../reviews/Reviews'
-import Headshot from '../Headshot'
+import Reviews from './Reviews'
+import Headshot from './Headshot'
 
 export class ReviewSection extends Component {
   render() {
     return (
-      <div className='flex'>
+      <div className='flex gap-x-4'>
         <Reviews />
         <Headshot />
       </div>

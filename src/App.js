@@ -1,7 +1,7 @@
 import DividingHeader from './components/DividingHeader';
 import EstimateSection from './components/estimates/EstimateSection';
 import Header from './components/Header';
-import ReviewSection from './components/timeline/ReviewSection';
+import ReviewSection from './components/reviews/ReviewSection';
 
 function App() {
   return (
