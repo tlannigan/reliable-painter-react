@@ -1,11 +1,11 @@
 import DividingHeader from './components/DividingHeader';
 import EstimateSection from './components/estimates/EstimateSection';
 import Header from './components/Header';
-import ReviewSection from './components/ReviewSection';
+import ReviewSection from './components/timeline/ReviewSection';
 
 function App() {
   return (
-    <div className="App max-w-screen-lg mx-auto">
+    <div className="App max-w-screen-lg mx-auto roboto">
       <Header />
       <EstimateSection />
 

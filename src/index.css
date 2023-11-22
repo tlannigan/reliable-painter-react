@@ -30,6 +30,11 @@ code {
   font-family: 'Roboto', sans-serif;
 }
 
+.roboto-bold {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+}
+
 .rowdies {
   font-family: 'Rowdies', sans-serif;
 }
