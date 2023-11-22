@@ -19,3 +19,9 @@ code {
 #root {
   background-color: #F6F6F6;
 }
+
+.section {
+  background-color: #FFFFFF;
+  border-radius: 16px;
+  padding: 1.5rem;
+}
