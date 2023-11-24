@@ -13,9 +13,18 @@ function App() {
         before={"Hi, I'm "}
         underlined={"Nathan"}
         after={", a master painter"} />
+        
       <ReviewSection />
 
-      <DividingHeader text="With over 50 years of experience" />
+      <DividingHeader
+        before={'With over '}
+        underlined={'50 years'}
+        after={' of experience'} />
+
+      <DividingHeader
+        before={''}
+        underlined={'Contact'}
+        after={' me'} />
     </div>
   );
 }
