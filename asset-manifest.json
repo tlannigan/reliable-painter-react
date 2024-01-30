@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/reliable-painters-react/static/css/main.787e46ac.css",
-    "main.js": "/reliable-painters-react/static/js/main.c17abdc1.js",
+    "main.css": "/reliable-painters-react/static/css/main.cb23e683.css",
+    "main.js": "/reliable-painters-react/static/js/main.6685e58b.js",
     "static/js/787.534385c9.chunk.js": "/reliable-painters-react/static/js/787.534385c9.chunk.js",
     "static/media/headshot.jpg": "/reliable-painters-react/static/media/headshot.a470d098a32a79538925.jpg",
     "static/media/paint-chips.jpg": "/reliable-painters-react/static/media/paint-chips.9b7b4ccccd421e9139f1.jpg",
     "static/media/bbb_a_plus_rating.svg": "/reliable-painters-react/static/media/bbb_a_plus_rating.4fe9c5dd22e3c98b8ed2a6eeefe84c90.svg",
     "index.html": "/reliable-painters-react/index.html",
-    "main.787e46ac.css.map": "/reliable-painters-react/static/css/main.787e46ac.css.map",
-    "main.c17abdc1.js.map": "/reliable-painters-react/static/js/main.c17abdc1.js.map",
+    "main.cb23e683.css.map": "/reliable-painters-react/static/css/main.cb23e683.css.map",
+    "main.6685e58b.js.map": "/reliable-painters-react/static/js/main.6685e58b.js.map",
     "787.534385c9.chunk.js.map": "/reliable-painters-react/static/js/787.534385c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.787e46ac.css",
-    "static/js/main.c17abdc1.js"
+    "static/css/main.cb23e683.css",
+    "static/js/main.6685e58b.js"
   ]
 }
