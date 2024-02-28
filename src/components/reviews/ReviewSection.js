@@ -5,7 +5,7 @@ import Headshot from './Headshot'
 export class ReviewSection extends Component {
   render() {
     return (
-      <div className='flex gap-x-4'>
+      <div className='flex flex-col md:flex-row gap-x-4 gap-y-8'>
         <Reviews />
         <Headshot />
       </div>

@@ -2,10 +2,10 @@ import React, { Component } from 'react'
 import EstimateImage from './EstimateImage'
 import EstimateForm from './EstimateForm'
 
-export class EsimateSection extends Component {
+export class EstimateSection extends Component {
   render() {
     return (
-      <div className='flex justify-between gap-x-4'>
+      <div id='estimate' className='flex flex-col md:flex-row justify-between gap-x-4 gap-y-8'>
         <EstimateImage />
         <EstimateForm />
       </div>
@@ -13,4 +13,4 @@ export class EsimateSection extends Component {
   }
 }
 
-export default EsimateSection
+export default EstimateSection
